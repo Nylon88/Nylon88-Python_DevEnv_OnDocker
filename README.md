@@ -1,8 +1,9 @@
 pythonの開発環境をdockerで簡単構築！
 
 """
-以下のコマンドをshellで打ち込むだけ
+以下のコマンドをshellに打ち込むだけ
 ※docker docker-compose gitのセットアップはしておいてね💛
+　ちな、vscodeで使うと使いやすいよ。
 """
 
 // リポジトリのクローン
