@@ -7,7 +7,7 @@ pythonの開発環境をdockerで簡単構築！
 """
 
 // リポジトリのクローン
-git clone https://github.com/Nylon88/Nylon88-Python_DevEnv_OnDocker
+git clone https://github.com/Nylon88/Nylon88-Python_DevEnv_OnDocker.git
 
 // docker-composeでimageからコンテナを立ててる
 docker-compose up -d
