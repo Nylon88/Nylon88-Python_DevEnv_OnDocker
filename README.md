@@ -11,5 +11,5 @@
 git clone https://github.com/Nylon88/Nylon88-Python_DevEnv_OnDocker.git<br>
 
 
-// docker-composeでimageからコンテナを立ててる<br>
+// docker-composeでimageからコンテナを立てる<br>
 docker-compose up -d<br>
