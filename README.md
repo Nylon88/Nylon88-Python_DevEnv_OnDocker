@@ -1,6 +1,6 @@
 <pythonの開発環境をdockerで簡単構築！><br>
 
-"""
+"""<br>
 以下のコマンドをshellに打ち込むだけ
 ※docker docker-compose gitのセットアップはしておいてね💛<br>
 　ちな、vscodeで使うと使いやすいよ。<br>
