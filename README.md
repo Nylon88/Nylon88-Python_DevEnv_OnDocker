@@ -6,7 +6,7 @@
 #### ちな、vscodeで使うと使いやすいよ。
 #### """
 
-<br><br><br>
+<br>
 // リポジトリのクローン<br>
 git clone https://github.com/Nylon88/Nylon88-Python_DevEnv_OnDocker.git<br>
 
